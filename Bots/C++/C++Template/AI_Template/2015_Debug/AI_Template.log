@@ -1,0 +1,153 @@
+﻿  main.cpp
+D:\Download\Pack\Bots\C++\C++Template\AI_Template\src\main.cpp(110,20): warning C4018: '<': signed/unsigned mismatch
+D:\Download\Pack\Bots\C++\C++Template\AI_Template\src\main.cpp(140,20): warning C4018: '<': signed/unsigned mismatch
+D:\Download\Pack\Bots\C++\C++Template\AI_Template\src\main.cpp(317,20): warning C4018: '<': signed/unsigned mismatch
+D:\Download\Pack\Bots\C++\C++Template\AI_Template\src\main.cpp(392,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Download\Pack\Bots\C++\C++Template\AI_Template\src\main.cpp(393,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Download\Pack\Bots\C++\C++Template\AI_Template\src\main.cpp(401,20): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Download\Pack\Bots\C++\C++Template\AI_Template\src\main.cpp(405,25): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Download\Pack\Bots\C++\C++Template\AI_Template\src\main.cpp(409,34): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Download\Pack\Bots\C++\C++Template\AI_Template\src\main.cpp(413,34): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Download\Pack\Bots\C++\C++Template\AI_Template\src\main.cpp(422,32): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Download\Pack\Bots\C++\C++Template\AI_Template\src\main.cpp(426,37): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Download\Pack\Bots\C++\C++Template\AI_Template\src\main.cpp(430,46): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Download\Pack\Bots\C++\C++Template\AI_Template\src\main.cpp(434,46): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Download\Pack\Bots\C++\C++Template\AI_Template\src\main.cpp(484,37): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Download\Pack\Bots\C++\C++Template\AI_Template\src\main.cpp(484,27): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Download\Pack\Bots\C++\C++Template\AI_Template\src\main.cpp(488,42): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Download\Pack\Bots\C++\C++Template\AI_Template\src\main.cpp(488,32): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Download\Pack\Bots\C++\C++Template\AI_Template\src\main.cpp(492,50): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Download\Pack\Bots\C++\C++Template\AI_Template\src\main.cpp(492,40): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Download\Pack\Bots\C++\C++Template\AI_Template\src\main.cpp(496,49): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Download\Pack\Bots\C++\C++Template\AI_Template\src\main.cpp(496,39): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Download\Pack\Bots\C++\C++Template\AI_Template\src\main.cpp(619,38): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Download\Pack\Bots\C++\C++Template\AI_Template\src\main.cpp(619,28): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Download\Pack\Bots\C++\C++Template\AI_Template\src\main.cpp(623,43): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Download\Pack\Bots\C++\C++Template\AI_Template\src\main.cpp(623,33): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Download\Pack\Bots\C++\C++Template\AI_Template\src\main.cpp(627,51): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Download\Pack\Bots\C++\C++Template\AI_Template\src\main.cpp(627,41): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Download\Pack\Bots\C++\C++Template\AI_Template\src\main.cpp(631,50): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Download\Pack\Bots\C++\C++Template\AI_Template\src\main.cpp(631,40): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Download\Pack\Bots\C++\C++Template\AI_Template\src\main.cpp(720,15): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Download\Pack\Bots\C++\C++Template\AI_Template\src\main.cpp(723,15): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Download\Pack\Bots\C++\C++Template\AI_Template\src\main.cpp(726,15): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Download\Pack\Bots\C++\C++Template\AI_Template\src\main.cpp(729,15): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Download\Pack\Bots\C++\C++Template\AI_Template\src\main.cpp(732,15): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Download\Pack\Bots\C++\C++Template\AI_Template\src\main.cpp(735,15): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Download\Pack\Bots\C++\C++Template\AI_Template\src\main.cpp(738,15): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Download\Pack\Bots\C++\C++Template\AI_Template\src\main.cpp(741,15): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Download\Pack\Bots\C++\C++Template\AI_Template\src\main.cpp(766,38): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Download\Pack\Bots\C++\C++Template\AI_Template\src\main.cpp(766,28): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Download\Pack\Bots\C++\C++Template\AI_Template\src\main.cpp(770,43): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Download\Pack\Bots\C++\C++Template\AI_Template\src\main.cpp(770,33): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Download\Pack\Bots\C++\C++Template\AI_Template\src\main.cpp(774,52): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Download\Pack\Bots\C++\C++Template\AI_Template\src\main.cpp(774,41): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Download\Pack\Bots\C++\C++Template\AI_Template\src\main.cpp(778,51): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Download\Pack\Bots\C++\C++Template\AI_Template\src\main.cpp(778,40): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Download\Pack\Bots\C++\C++Template\AI_Template\src\main.cpp(851,48): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Download\Pack\Bots\C++\C++Template\AI_Template\src\main.cpp(855,52): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Download\Pack\Bots\C++\C++Template\AI_Template\src\main.cpp(909,38): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Download\Pack\Bots\C++\C++Template\AI_Template\src\main.cpp(909,28): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Download\Pack\Bots\C++\C++Template\AI_Template\src\main.cpp(913,43): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Download\Pack\Bots\C++\C++Template\AI_Template\src\main.cpp(913,33): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Download\Pack\Bots\C++\C++Template\AI_Template\src\main.cpp(917,51): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Download\Pack\Bots\C++\C++Template\AI_Template\src\main.cpp(917,41): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Download\Pack\Bots\C++\C++Template\AI_Template\src\main.cpp(921,50): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Download\Pack\Bots\C++\C++Template\AI_Template\src\main.cpp(921,40): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Download\Pack\Bots\C++\C++Template\AI_Template\src\main.cpp(1011,15): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Download\Pack\Bots\C++\C++Template\AI_Template\src\main.cpp(1014,15): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Download\Pack\Bots\C++\C++Template\AI_Template\src\main.cpp(1017,15): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Download\Pack\Bots\C++\C++Template\AI_Template\src\main.cpp(1020,15): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Download\Pack\Bots\C++\C++Template\AI_Template\src\main.cpp(1023,15): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Download\Pack\Bots\C++\C++Template\AI_Template\src\main.cpp(1026,15): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Download\Pack\Bots\C++\C++Template\AI_Template\src\main.cpp(1029,15): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Download\Pack\Bots\C++\C++Template\AI_Template\src\main.cpp(1032,15): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Download\Pack\Bots\C++\C++Template\AI_Template\src\main.cpp(1057,38): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Download\Pack\Bots\C++\C++Template\AI_Template\src\main.cpp(1057,28): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Download\Pack\Bots\C++\C++Template\AI_Template\src\main.cpp(1061,43): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Download\Pack\Bots\C++\C++Template\AI_Template\src\main.cpp(1061,33): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Download\Pack\Bots\C++\C++Template\AI_Template\src\main.cpp(1065,52): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Download\Pack\Bots\C++\C++Template\AI_Template\src\main.cpp(1065,41): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Download\Pack\Bots\C++\C++Template\AI_Template\src\main.cpp(1069,51): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Download\Pack\Bots\C++\C++Template\AI_Template\src\main.cpp(1069,40): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Download\Pack\Bots\C++\C++Template\AI_Template\src\main.cpp(1142,52): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Download\Pack\Bots\C++\C++Template\AI_Template\src\main.cpp(1146,48): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Download\Pack\Bots\C++\C++Template\AI_Template\src\main.cpp(1191,37): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Download\Pack\Bots\C++\C++Template\AI_Template\src\main.cpp(1191,27): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Download\Pack\Bots\C++\C++Template\AI_Template\src\main.cpp(1195,42): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Download\Pack\Bots\C++\C++Template\AI_Template\src\main.cpp(1195,32): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Download\Pack\Bots\C++\C++Template\AI_Template\src\main.cpp(1199,50): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Download\Pack\Bots\C++\C++Template\AI_Template\src\main.cpp(1199,40): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Download\Pack\Bots\C++\C++Template\AI_Template\src\main.cpp(1203,49): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Download\Pack\Bots\C++\C++Template\AI_Template\src\main.cpp(1203,39): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Download\Pack\Bots\C++\C++Template\AI_Template\src\main.cpp(1321,37): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Download\Pack\Bots\C++\C++Template\AI_Template\src\main.cpp(1321,27): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Download\Pack\Bots\C++\C++Template\AI_Template\src\main.cpp(1325,42): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Download\Pack\Bots\C++\C++Template\AI_Template\src\main.cpp(1325,32): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Download\Pack\Bots\C++\C++Template\AI_Template\src\main.cpp(1329,50): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Download\Pack\Bots\C++\C++Template\AI_Template\src\main.cpp(1329,40): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Download\Pack\Bots\C++\C++Template\AI_Template\src\main.cpp(1333,49): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Download\Pack\Bots\C++\C++Template\AI_Template\src\main.cpp(1333,39): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Download\Pack\Bots\C++\C++Template\AI_Template\src\main.cpp(1461,38): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Download\Pack\Bots\C++\C++Template\AI_Template\src\main.cpp(1461,28): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Download\Pack\Bots\C++\C++Template\AI_Template\src\main.cpp(1465,43): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Download\Pack\Bots\C++\C++Template\AI_Template\src\main.cpp(1465,33): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Download\Pack\Bots\C++\C++Template\AI_Template\src\main.cpp(1469,51): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Download\Pack\Bots\C++\C++Template\AI_Template\src\main.cpp(1469,41): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Download\Pack\Bots\C++\C++Template\AI_Template\src\main.cpp(1473,50): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Download\Pack\Bots\C++\C++Template\AI_Template\src\main.cpp(1473,40): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Download\Pack\Bots\C++\C++Template\AI_Template\src\main.cpp(1566,15): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Download\Pack\Bots\C++\C++Template\AI_Template\src\main.cpp(1569,15): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Download\Pack\Bots\C++\C++Template\AI_Template\src\main.cpp(1572,15): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Download\Pack\Bots\C++\C++Template\AI_Template\src\main.cpp(1575,15): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Download\Pack\Bots\C++\C++Template\AI_Template\src\main.cpp(1578,15): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Download\Pack\Bots\C++\C++Template\AI_Template\src\main.cpp(1581,15): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Download\Pack\Bots\C++\C++Template\AI_Template\src\main.cpp(1584,15): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Download\Pack\Bots\C++\C++Template\AI_Template\src\main.cpp(1587,15): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Download\Pack\Bots\C++\C++Template\AI_Template\src\main.cpp(1612,38): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Download\Pack\Bots\C++\C++Template\AI_Template\src\main.cpp(1612,28): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Download\Pack\Bots\C++\C++Template\AI_Template\src\main.cpp(1616,43): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Download\Pack\Bots\C++\C++Template\AI_Template\src\main.cpp(1616,33): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Download\Pack\Bots\C++\C++Template\AI_Template\src\main.cpp(1620,52): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Download\Pack\Bots\C++\C++Template\AI_Template\src\main.cpp(1620,41): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Download\Pack\Bots\C++\C++Template\AI_Template\src\main.cpp(1624,51): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Download\Pack\Bots\C++\C++Template\AI_Template\src\main.cpp(1624,40): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Download\Pack\Bots\C++\C++Template\AI_Template\src\main.cpp(1697,48): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Download\Pack\Bots\C++\C++Template\AI_Template\src\main.cpp(1701,52): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Download\Pack\Bots\C++\C++Template\AI_Template\src\main.cpp(1755,38): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Download\Pack\Bots\C++\C++Template\AI_Template\src\main.cpp(1755,28): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Download\Pack\Bots\C++\C++Template\AI_Template\src\main.cpp(1759,43): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Download\Pack\Bots\C++\C++Template\AI_Template\src\main.cpp(1759,33): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Download\Pack\Bots\C++\C++Template\AI_Template\src\main.cpp(1763,51): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Download\Pack\Bots\C++\C++Template\AI_Template\src\main.cpp(1763,41): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Download\Pack\Bots\C++\C++Template\AI_Template\src\main.cpp(1767,50): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Download\Pack\Bots\C++\C++Template\AI_Template\src\main.cpp(1767,40): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Download\Pack\Bots\C++\C++Template\AI_Template\src\main.cpp(1857,15): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Download\Pack\Bots\C++\C++Template\AI_Template\src\main.cpp(1860,15): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Download\Pack\Bots\C++\C++Template\AI_Template\src\main.cpp(1863,15): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Download\Pack\Bots\C++\C++Template\AI_Template\src\main.cpp(1866,15): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Download\Pack\Bots\C++\C++Template\AI_Template\src\main.cpp(1869,15): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Download\Pack\Bots\C++\C++Template\AI_Template\src\main.cpp(1872,15): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Download\Pack\Bots\C++\C++Template\AI_Template\src\main.cpp(1875,15): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Download\Pack\Bots\C++\C++Template\AI_Template\src\main.cpp(1878,15): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Download\Pack\Bots\C++\C++Template\AI_Template\src\main.cpp(1903,38): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Download\Pack\Bots\C++\C++Template\AI_Template\src\main.cpp(1903,28): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Download\Pack\Bots\C++\C++Template\AI_Template\src\main.cpp(1907,43): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Download\Pack\Bots\C++\C++Template\AI_Template\src\main.cpp(1907,33): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Download\Pack\Bots\C++\C++Template\AI_Template\src\main.cpp(1911,52): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Download\Pack\Bots\C++\C++Template\AI_Template\src\main.cpp(1911,41): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Download\Pack\Bots\C++\C++Template\AI_Template\src\main.cpp(1915,51): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Download\Pack\Bots\C++\C++Template\AI_Template\src\main.cpp(1915,40): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Download\Pack\Bots\C++\C++Template\AI_Template\src\main.cpp(1988,52): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Download\Pack\Bots\C++\C++Template\AI_Template\src\main.cpp(1992,48): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Download\Pack\Bots\C++\C++Template\AI_Template\src\main.cpp(2038,37): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Download\Pack\Bots\C++\C++Template\AI_Template\src\main.cpp(2038,27): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Download\Pack\Bots\C++\C++Template\AI_Template\src\main.cpp(2042,42): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Download\Pack\Bots\C++\C++Template\AI_Template\src\main.cpp(2042,32): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Download\Pack\Bots\C++\C++Template\AI_Template\src\main.cpp(2046,50): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Download\Pack\Bots\C++\C++Template\AI_Template\src\main.cpp(2046,40): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Download\Pack\Bots\C++\C++Template\AI_Template\src\main.cpp(2050,49): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Download\Pack\Bots\C++\C++Template\AI_Template\src\main.cpp(2050,39): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Download\Pack\Bots\C++\C++Template\AI_Template\src\main.cpp(376): warning C4715: 'IsDangerous': not all control paths return a value
+D:\Download\Pack\Bots\C++\C++Template\AI_Template\src\main.cpp(381): warning C4715: 'IsDangerousLow': not all control paths return a value
+  AI_Template.vcxproj -> D:\Download\Pack\Bots\C++\C++Template\2015_Debug\AI_Template.exe
